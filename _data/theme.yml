@@ -24,7 +24,7 @@ browse-buttons: true # true / false, adds previous/next arrows to items, but inc
 # Collection Page
 #
 #see see_data/metadata-config.csv to define the collection fileds that will display
-browse-button: false
+
 
 ##########
 # SUBJECTS PAGE

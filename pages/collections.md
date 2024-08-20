@@ -1,8 +1,7 @@
 ---
 Title: Collections
-layout: collections
+layout: page
 permalink: /collections.html
 ---
 
-## Browse Collections
-
+## test this site
