@@ -1,5 +1,5 @@
 ---
-Title: Collections
+title: Collections
 layout: page
 permalink: /collections.html
 ---
